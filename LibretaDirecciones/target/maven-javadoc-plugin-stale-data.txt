@@ -1,0 +1,41 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'C:/Users/josea/OneDrive/Documentos/NetBeansProjects/LibretaDirecciones/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/josea/OneDrive/Documentos/NetBeansProjects/LibretaDirecciones/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'LibretaDirecciones 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'LibretaDirecciones 1.0-SNAPSHOT API'
+address
+address_data
+C:\Users\josea\OneDrive\Documentos\NetBeansProjects\LibretaDirecciones\src\main\java = 1717769310225
+C:\Users\josea\OneDrive\Documentos\NetBeansProjects\LibretaDirecciones\target\site\apidocs\allclasses-index.html = 1717771202593
+C:\Users\josea\OneDrive\Documentos\NetBeansProjects\LibretaDirecciones\target\site\apidocs\allpackages-index.html = 1717771202599
+C:\Users\josea\OneDrive\Documentos\NetBeansProjects\LibretaDirecciones\target\site\apidocs\element-list = 1717771202506
+C:\Users\josea\OneDrive\Documentos\NetBeansProjects\LibretaDirecciones\target\site\apidocs\help-doc.html = 1717771202637
+C:\Users\josea\OneDrive\Documentos\NetBeansProjects\LibretaDirecciones\target\site\apidocs\index-all.html = 1717771202625
+C:\Users\josea\OneDrive\Documentos\NetBeansProjects\LibretaDirecciones\target\site\apidocs\index.html = 1717771202574
+C:\Users\josea\OneDrive\Documentos\NetBeansProjects\LibretaDirecciones\target\site\apidocs\member-search-index.js = 1717771202606
+C:\Users\josea\OneDrive\Documentos\NetBeansProjects\LibretaDirecciones\target\site\apidocs\module-search-index.js = 1717771202601
+C:\Users\josea\OneDrive\Documentos\NetBeansProjects\LibretaDirecciones\target\site\apidocs\overview-summary.html = 1717771202632
+C:\Users\josea\OneDrive\Documentos\NetBeansProjects\LibretaDirecciones\target\site\apidocs\overview-tree.html = 1717771202570
+C:\Users\josea\OneDrive\Documentos\NetBeansProjects\LibretaDirecciones\target\site\apidocs\package-search-index.js = 1717771202602
+C:\Users\josea\OneDrive\Documentos\NetBeansProjects\LibretaDirecciones\target\site\apidocs\search.html = 1717771202629
+C:\Users\josea\OneDrive\Documentos\NetBeansProjects\LibretaDirecciones\target\site\apidocs\tag-search-index.js = 1717771202607
+C:\Users\josea\OneDrive\Documentos\NetBeansProjects\LibretaDirecciones\target\site\apidocs\type-search-index.js = 1717771202603
